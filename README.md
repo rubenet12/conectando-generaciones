@@ -6,8 +6,8 @@ El proyecto "Conectando generaciones" se centra en el desarrollo de aplicaciones
 **Objetivo general:**   
 Desarrollar aplicaciones tecnológicas intuitivas y funcionales, y capacitar a las personas mayores en su uso, con el fin de mejorar su calidad de vida, reducir la brecha digital y promover su inclusión social y digital.
 
-**Entregables:**  
-Entregables por hitos. Revisad documentos "evaluación".
+**Evaluación y entregables:**  
+Entregables por hitos. Revisad sección "evaluación".
 
 **Estructura recursos GitHub:**  
 --_PENDIENTE_Seguir estructura recomendada
