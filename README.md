@@ -9,6 +9,8 @@ Desarrollar aplicaciones tecnológicas intuitivas y funcionales, y capacitar a l
 **Evaluación y entregables:**  
 Entregables por hitos. Revisad sección "evaluación".
 
+![image](https://github.com/user-attachments/assets/996f6d30-021e-4078-89dc-6314844ebd1c)
+
 **Estructura recursos GitHub:**  
 /conectando-generaciones /  
 ├── alumnado/  
@@ -24,7 +26,6 @@ Entregables por hitos. Revisad sección "evaluación".
 │   └── programación.pdf  
 └── LICENSE  
 └── README.md  
-
 
 --------------------------------------------------------------------------------------------------------------  
 
