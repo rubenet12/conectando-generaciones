@@ -10,20 +10,20 @@ Desarrollar aplicaciones tecnológicas intuitivas y funcionales, y capacitar a l
 Entregables por hitos. Revisad sección "evaluación".
 
 **Estructura recursos GitHub:**  
-/conectando-generaciones /
-├── alumnado/
-│   ├── proyectos/
-│   ├── Encuesta de satisfacción para los mayores.pdf
-│   └── Ficha de usuario tipo (Persona).pdf
-├── evaluación/
-│   ├── Evaluación y entregables.pdf
-│   ├── Evaluación_ponderada.xlsx
-│   ├── Fichas autoevaluación y coevaluacion.pdf
-│   └── Rúbricas - Hitos_1_a_6.pdf
-├── profesorado/
-│   └── programación.pdf
-└── LICENSE
-└── README.md
+/conectando-generaciones /  
+├── alumnado/  
+│   ├── proyectos/  
+│   ├── Encuesta de satisfacción para los mayores.pdf  
+│   └── Ficha de usuario tipo (Persona).pdf  
+├── evaluación/  
+│   ├── Evaluación y entregables.pdf  
+│   ├── Evaluación_ponderada.xlsx  
+│   ├── Fichas autoevaluación y coevaluacion.pdf  
+│   └── Rúbricas - Hitos_1_a_6.pdf  
+├── profesorado/  
+│   └── programación.pdf  
+└── LICENSE  
+└── README.md  
 
 
 --------------------------------------------------------------------------------------------------------------  
