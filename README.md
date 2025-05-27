@@ -10,4 +10,31 @@ Desarrollar aplicaciones tecnológicas intuitivas y funcionales, y capacitar a l
 Entregables por hitos. Revisad sección "evaluación".
 
 **Estructura recursos GitHub:**  
---_PENDIENTE_Seguir estructura recomendada
+/conectando-generaciones /
+├── alumnado/
+│   ├── proyectos/
+│   ├── Encuesta de satisfacción para los mayores.pdf
+│   └── Ficha de usuario tipo (Persona).pdf
+├── evaluación/
+│   ├── Evaluación y entregables.pdf
+│   ├── Evaluación_ponderada.xlsx
+│   ├── Fichas autoevaluación y coevaluacion.pdf
+│   └── Rúbricas - Hitos_1_a_6.pdf
+├── profesorado/
+│   └── programación.pdf
+└── LICENSE
+└── README.md
+
+
+--------------------------------------------------------------------------------------------------------------  
+
+## 👥 Reparto del trabajo y contribución del equipo - conectando-generaciones
+
+El trabajo se ha repartido de forma equitativa. Hemos planteado la idea de forma conjunta y esbozado la estructura del proyecto, repartiendo tareas y ajustando de forma conjunta según progresábamos. 
+
+Como referencia detallamos quién ha llevado la iniciativa de algunas partes:
+
+- **Vicent Fernández Muñoz**: Planificacion temporal y organización de las sesiones. 
+- **Misael Sandoval Salvatierra**: Desarrollo de XXX, YYY
+- **Ruben de los Santos**: Objetivos, competencias y contextualización. GitHub, material de soporte tipo plantillas, rúbricas o calculadora para la evaluación.
+
