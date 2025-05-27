@@ -34,7 +34,7 @@ El trabajo se ha repartido de forma equitativa. Hemos planteado la idea de forma
 
 Como referencia detallamos quién ha llevado la iniciativa de algunas partes:
 
-- **Vicent Fernández Muñoz**: Planificacion temporal y organización de las sesiones. 
-- **Misael Sandoval Salvatierra**: Desarrollo de XXX, YYY
-- **Ruben de los Santos**: Objetivos, competencias y contextualización. GitHub, material de soporte tipo plantillas, rúbricas o calculadora para la evaluación.
+- **Vicent Fernández Muñoz**: Planificacion temporal, organización de las sesiones, evaluación y estratégias metodológicas.   
+- **Misael Sandoval Salvatierra**: Desarrollo de contenido para los alumnos, presentación, desarrollo de sesiones.
+- **Ruben de los Santos**: Objetivos, competencias y contextualización. GitHub, material de soporte tipo plantillas, rúbricas o calculadora para la evaluación.  
 
